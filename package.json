@@ -1,6 +1,6 @@
 {
   "name": "polyline-creator",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "A simple map Polyline Creator based on React-native-Maps",
   "main": "index.js",
   "scripts": {
@@ -18,7 +18,7 @@
   "peerDependencies": {
     "react": ">=15.3.1",
     "react-native": ">=0.35",
-    "react-native-maps":"^0.11.0"
+    "react-native-maps":"^0.10.2"
  },
   "author": "Vikram Belde",
   "license": "MIT",
