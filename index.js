@@ -171,7 +171,7 @@ _drawLine(){
                 <MapView.Marker
                   key = {polyline.latitude + polyline.longitude + Math.random()}
                   coordinate={polyline}
-                  image = {require('./images/pointer.png')}
+                  //image = {require('./images/pointer.png')}
                 />
            ))}
         </MapView>
